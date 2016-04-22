@@ -1,2 +1,2 @@
-# troia-platform-client-plugin-demo
+# troia-client-plugin-demo
 Demo client plugin for troia platform

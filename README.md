@@ -1,2 +1,3 @@
 # troia-client-plugin-demo
-Demo client plugin for troia platform
+
+A simple plugin demo for troia platform, only prints client requests to ui.

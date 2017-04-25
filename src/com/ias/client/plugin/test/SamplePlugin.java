@@ -8,8 +8,7 @@ import com.ias.client.plugin.iasPluginValidationParameters;
 
 @SuppressWarnings("serial")
 /**
- * plugin passes all action parameters to frame to print on a text
- * field
+ * plugin passes all action parameters to frame to print on a textfield
  */
 public class SamplePlugin extends iasAbstractPlugin {
 
